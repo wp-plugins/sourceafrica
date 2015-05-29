@@ -11,7 +11,7 @@ Embed sourceAFRICA resources in WordPress content.
 
 == Description ==
 
-[sourceAFRICA](https://sourceafrica.net/) is a service provided by [African Network of Centers for Investigative Reporting](http://investigativecenters.org) that allows journalists to analyze, annotate, and publish documents, hosted by [Code for Africa](http://www.codeforafrica.org]. Initial development of this plugin supported by [NPR](http://www.npr.org) as part of [StateImpact](http://stateimpact.npr.org) project and continues to be supported by [DocumentCloud](https://www.documentcloud.org).
+[sourceAFRICA](https://sourceafrica.net/) is a service provided by [African Network of Centers for Investigative Reporting](http://investigativecenters.org) that allows journalists to analyze, annotate, and publish documents, hosted by [Code for Africa](http://www.codeforafrica.org). Initial development of this plugin supported by [NPR](http://www.npr.org) as part of [StateImpact](http://stateimpact.npr.org) project and continues to be supported by [DocumentCloud](https://www.documentcloud.org).
 
 This plugin allows you to embed sourceAFRICA resources using either the raw URL on its own line:
 
