@@ -75,6 +75,9 @@ You can read more about publishing and embedding sourceAFRICA resources on https
 
 == Changelog ==
 
+= 0.1.3 =
+* Fixed some more readme URLs.
+
 = 0.1.2 =
 * Fixed Readme URLs.
 
